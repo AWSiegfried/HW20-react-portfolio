@@ -1,30 +1,55 @@
 import React from "react";
+import { Link } from "react-router-dom";
 import "./navbar.css";
+import symbol from '../../assets/images/symbol.png';
+
 
 export default function Navbar() {
   return (
     <div>
-      <nav className="navbar navbar-expand-lg navbar-light bg-light">
-        <div className="container-fluid">
-          <a className="navbar-brand" href="/">
-            <img
-              src="../../../Assets/Images/deified-symbol-stylized.png"
-              alt="deifiedsymbol"
-            //   width="30"
-            //   height="24"
-            />
-          </a>
-  
-          <div className="collapse navbar-collapse" id="navbarSupportedContent">
-            <ul className="navbar-nav me-auto mb-2 mb-lg-0">
-              <li className="nav-item">
-                <a className="nav-link active" aria-current="page" href="/Home">
-                  Home
-                </a>
-              </li>
-            </ul>
-          </div>
-        </div>
+      <nav className="navbar navbar-expand-lg" >
+        <img className="symbol"
+            src={symbol}
+            alt="deifiedsymbol"
+            width="5%"
+            height="auto"
+        //   display="block"
+        />
+
+        <Link className="navbar-brand" to="/home">
+          Alexander Wolfgang Siegfried
+        </Link>
+        <Link
+        to="/about"
+        className={
+            window.location.pathname === "/" ||
+            window.location.pathname === "/about"
+            ? "nav-link active"
+            : "nav-link"
+        }
+        >
+        About
+        </Link>
+        <Link
+        to="/portfolio"
+        className={
+            window.location.pathname === "/portfolio"
+            ? "nav-link active"
+            : "nav-link"
+        }
+        >
+        Portfolio
+        </Link>
+        <Link
+        to="/contact"
+        className={
+            window.location.pathname === "/contact"
+            ? "nav-link active"
+            : "nav-link"
+        }
+        >
+        Contact
+        </Link>
       </nav>
     </div>
   );

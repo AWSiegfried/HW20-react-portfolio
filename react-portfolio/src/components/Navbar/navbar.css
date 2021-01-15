@@ -1,0 +1,43 @@
+.symbol {
+  background-color: transparent;
+  height: auto;
+}
+
+.navbar {
+  /* background-color: rgba(255, 255, 255, 0); */
+  /* height: 4rem; */
+  /* position: -webkit-sticky;
+  position: sticky; */
+  /* top: -0px; */
+}
+
+.navbar-brand {
+    /* position: -webkit-sticky; */
+    /* position: sticky; */
+    /* position: relative; */
+    color: white;
+    font-size: 3vw;
+
+}
+
+.navbar-nav {
+  /* position: -webkit-sticky;
+  position: sticky;
+  position:relative */
+  font-size: 3vw;
+
+}
+
+.navbar-item {
+  /* position: -webkit-sticky;
+  position: sticky;
+  top: 20px; */
+}
+
+a {
+    color: white;
+}
+
+a.nav-link {
+    color: white;
+}

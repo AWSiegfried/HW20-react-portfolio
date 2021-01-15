@@ -3,8 +3,8 @@ import "./portfolio.css"
 
 export default function Portfolio() {
     return (
-        <div>
-            
+        <div className="main">
+            Portfolio
         </div>
     )
 }

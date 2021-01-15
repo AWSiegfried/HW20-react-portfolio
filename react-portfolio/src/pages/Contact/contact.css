@@ -5,3 +5,25 @@
     -o-background-size: cover;
     background-size: cover;
 }
+
+#one-section {
+    text-align: center;
+    margin: auto;
+}
+
+.contact-subtitle {
+    padding-top: 2%;
+    margin: 5%;
+    text-align: center;
+}
+
+.contact {
+    text-align: center;
+    font-size: 2vw;
+    border: 2px solid purple;
+    border-radius: 1vw;
+    margin-bottom: 2rem;
+    color: #c344bf;
+    background-color: rgba(255, 252, 246, 0.877);
+    box-shadow: 0px 1px 5px 1px rgba(0, 0, 0, 0.5);
+}

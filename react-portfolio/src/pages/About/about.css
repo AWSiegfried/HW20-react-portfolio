@@ -5,3 +5,25 @@
     -o-background-size: cover;
     background-size: cover;
 }
+
+.bio {
+    width: 80%;
+    padding-top: 2rem;
+    margin: auto;
+    text-align: center;
+    font-size: 1.3vw;
+    border-radius: 12px;
+    padding: 2vw;
+    color: #c344bf;
+    background-color: rgba(255, 252, 246, 0.877);
+    box-shadow: 0px 1px 5px 1px rgba(0, 0, 0, 0.5);
+    font-family: 'Recursive', sans-serif;
+    font-weight: bold;
+    letter-spacing: 1px;
+    text-shadow: .5px 1px #a200ff38;
+}
+
+#one-section {
+    text-align: center;
+    margin: auto;
+}

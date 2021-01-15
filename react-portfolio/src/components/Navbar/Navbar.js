@@ -16,7 +16,7 @@ export default function Navbar() {
         //   display="block"
         />
 
-        <Link className="navbar-brand" to="/home">
+        <Link className="navbar-brand" to="/about">
           Alexander Wolfgang Siegfried
         </Link>
         <Link

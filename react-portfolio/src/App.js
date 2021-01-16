@@ -14,7 +14,6 @@ import "./App.css"
 
 
 
-
 function App() {
   
   const [backgroundImage, changeBackground] = useState(Background);
@@ -23,6 +22,7 @@ function App() {
       mainpage: {
           background: "url(" + backgroundImage + ") no-repeat center center fixed",
           backgroundSize: "cover",
+          width: "100%",
           overFlow: "scroll"
       }
   }

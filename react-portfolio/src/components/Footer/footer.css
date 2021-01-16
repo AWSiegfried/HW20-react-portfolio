@@ -14,7 +14,7 @@
 .linkedin {
     height: 12vw;
     width: auto;
-    transform: scale(1.2);
+    transform: scale(1.1);
 }
 
 .linkedin:hover {
@@ -32,7 +32,7 @@
     transform: scale(1.1);
 }
 
-.mainfooter {
+.main-footer {
     display: inline-block;
     padding-top: 2rem;
     margin: auto;

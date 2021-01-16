@@ -1,13 +1,56 @@
 .main {
-    background: url('../../assets/images/guitarbody.png') no-repeat center center fixed;
+    /* background: url('../../assets/images/guitarbody.png') no-repeat center center fixed;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
-    background-size: cover;
+    background-size: cover; */
+    
 }
 
 h1 {
     color: white;
     text-align: center;
     margin: auto;
+}
+
+#one-section {
+    text-align: center;
+    margin: auto;
+    
+}
+
+.portfolio {
+    text-align: center;
+}
+
+.portfolio-subtitle {
+    padding-top: 2%;
+    margin: 5%;
+    text-align: center;
+    border: 2px solid purple;
+    border-radius: 12px;
+    color: #462A46;
+    background-color: rgba(255, 252, 246, 0.555);
+    box-shadow: 0px 1px 5px 1px rgba(0, 0, 0, 0.5);
+    font-size: 3.5vw !important;
+    
+}
+
+.pictures {
+    padding-top: 15px;
+    padding-bottom: 15px;
+    
+}
+
+.projects {
+    text-align: center;
+    font-size: 2vw;
+    border: 2px solid purple;
+    border-radius: 1vw;
+    margin-bottom: 2rem;
+    color: #c344bf;
+    background-color: rgba(255, 252, 246, 0.877);
+    box-shadow: 0px 1px 5px 1px rgba(0, 0, 0, 0.5);
+    width: 35%;
+    margin: 10%;
 }

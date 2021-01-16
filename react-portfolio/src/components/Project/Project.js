@@ -30,7 +30,6 @@ export default function Project(props) {
         <div className="col-md-12 cold-sm-12">
           <img
             src={props.imageTwo}
-            alt="Placeholder"
             className="picture img-fluid"
           />
         </div>
@@ -39,7 +38,6 @@ export default function Project(props) {
         <div className="col-md-12 cold-sm-12">
           <img
             src={props.imageThree}
-            alt="Placeholder"
             className="picture img-fluid"
           />
         </div>

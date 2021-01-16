@@ -7,5 +7,50 @@
         "imageOne": "../assets/images/emergence-homepage.png",
         "imageTwo": "../../assets/images/emergence-artistpage.png",
         "imageThree": "../../assets/images/emergence-audio-features.png"
+    },
+    {
+        "id": 2,
+        "name": "NoGym",
+        "live": "https://nogym.herokuapp.com/",
+        "github": "https://github.com/TChristensenDrumz/NoGym",
+        "imageOne": "../assets/images/nogym1.png",
+        "imageTwo": "../../assets/images/nogym2.png",
+        "imageThree": "../../assets/images/nogym3.png"
+    },
+    {
+        "id": 3,
+        "name": "Workout Tracker",
+        "live": "https://hwseventeen-workout-tracker.herokuapp.com/",
+        "github": "https://github.com/AWSiegfried/Emergence_v1",
+        "imageOne": "../assets/images/wt1.png",
+        "imageTwo": "../../assets/images/wt2.png",
+        "imageThree": "../../assets/images/wt3.png"
+    },
+    {
+        "id": 4,
+        "name": "Employee Directory",
+        "live": "https://awsiegfried.github.io/Emergence_v1/",
+        "github": "https://github.com/AWSiegfried/HW19-employee-directory",
+        "imageOne": "../assets/images/ed1.png",
+        "imageTwo": "../../assets/images/ed2.png",
+        "imageThree": "../../assets/images/ed3.png"
+    },
+    {
+        "id": 5,
+        "name": "Employee System",
+        "live": "https://github.com/AWSiegfried/HW12-employee-system",
+        "github": "https://github.com/AWSiegfried/HW12-employee-system",
+        "imageOne": "../assets/images/demo.gif",
+        "imageTwo": "",
+        "imageThree": ""
+    },
+    {
+        "id": 6,
+        "name": "Note Taker",
+        "live": "https://github.com/AWSiegfried/HW11-express-note-taker",
+        "github": "https://github.com/AWSiegfried/HW11-express-note-taker",
+        "imageOne": "../assets/images/emergence-homepage.png",
+        "imageTwo": "../../assets/images/emergence-artistpage.png",
+        "imageThree": ""
     }
 ]

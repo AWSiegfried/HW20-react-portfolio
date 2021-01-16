@@ -4,7 +4,8 @@
     -moz-background-size: cover;
     -o-background-size: cover;
     background-size: cover; */
-    
+    overflow-y:auto
+
 }
 
 h1 {
@@ -51,6 +52,8 @@ h1 {
     color: #c344bf;
     background-color: rgba(255, 252, 246, 0.877);
     box-shadow: 0px 1px 5px 1px rgba(0, 0, 0, 0.5);
-    width: 35%;
-    margin: 10%;
+    width: 10rem;
+    display:inline-block;
+    margin-left: 2vw;
+    margin-right: 2vw;
 }

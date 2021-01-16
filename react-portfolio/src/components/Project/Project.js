@@ -20,7 +20,7 @@ export default function Project(props) {
       <div className="row pictures">
         <div className="col-md-12 cold-sm-12">
           <img
-            src={require("../../assets/images/nogym1.png")}
+            src={props.imageOne}
             alt="Placeholder"
             className="picture img-fluid"
           />

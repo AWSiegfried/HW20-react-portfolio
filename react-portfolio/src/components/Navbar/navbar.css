@@ -3,11 +3,11 @@
   height: auto;
 }
 
-.navbar {
+.mainnavbar {
   /* background-color: rgba(255, 255, 255, 0); */
-  /* height: 4rem; */
+padding-top: 2rem;
   /* position: -webkit-sticky;
-  position: sticky; */
+
   /* top: -0px; */
 }
 

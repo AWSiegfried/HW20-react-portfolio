@@ -4,6 +4,7 @@
     -moz-background-size: cover;
     -o-background-size: cover;
     background-size: cover; */
+    height: 100%
 }
 
 .bio {
@@ -21,9 +22,14 @@
     font-weight: bold;
     letter-spacing: 1px;
     text-shadow: .5px 1px #a200ff38;
+    margin-bottom: 10rem;
 }
 
 #one-section {
     text-align: center;
     margin: auto;
+}
+
+.span {
+    color: rgb(128, 70, 223);
 }

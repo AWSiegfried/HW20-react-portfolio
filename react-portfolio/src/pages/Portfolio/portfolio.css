@@ -4,7 +4,8 @@
     -moz-background-size: cover;
     -o-background-size: cover;
     background-size: cover; */
-    overflow-y:auto
+    /* overflow-y: auto; */
+    height: 100%
 
 }
 
@@ -54,6 +55,6 @@ h1 {
     box-shadow: 0px 1px 5px 1px rgba(0, 0, 0, 0.5);
     width: 10rem;
     display:inline-block;
-    margin-left: 2vw;
-    margin-right: 2vw;
+    margin-left: 8.5vw;
+    margin-right: 8.5vw;
 }

@@ -1,7 +1,8 @@
 
 
+
 .github {
-    height: 70px;
+    height: 7vw;
     width: auto;
     transform: scale(.9);
 }
@@ -11,7 +12,7 @@
 }
 
 .linkedin {
-    height: 100px;
+    height: 12vw;
     width: auto;
     transform: scale(1.2);
 }
@@ -20,6 +21,19 @@
     transform: scale(1.3);
 }
 
-.twitter:hover {
+.instagram {
+    height: 10vw;
+    /* margin-top: 10vw; */
+    margin-left: 1.5rem!important;
+    padding-top: 2.2vw;
+}
+
+.instagram:hover {
     transform: scale(1.1);
+}
+
+.mainfooter {
+    display: inline-block;
+    padding-top: 2rem;
+    margin: auto;
 }

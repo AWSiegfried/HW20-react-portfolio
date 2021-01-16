@@ -1,0 +1,42 @@
+{
+  "files": {
+    "main.css": "/HW20-react-portfolio/static/css/main.fa034185.chunk.css",
+    "main.js": "/HW20-react-portfolio/static/js/main.e90f32ca.chunk.js",
+    "main.js.map": "/HW20-react-portfolio/static/js/main.e90f32ca.chunk.js.map",
+    "runtime-main.js": "/HW20-react-portfolio/static/js/runtime-main.a9c6c212.js",
+    "runtime-main.js.map": "/HW20-react-portfolio/static/js/runtime-main.a9c6c212.js.map",
+    "static/css/2.ae9f1eb3.chunk.css": "/HW20-react-portfolio/static/css/2.ae9f1eb3.chunk.css",
+    "static/js/2.0db4917e.chunk.js": "/HW20-react-portfolio/static/js/2.0db4917e.chunk.js",
+    "static/js/2.0db4917e.chunk.js.map": "/HW20-react-portfolio/static/js/2.0db4917e.chunk.js.map",
+    "index.html": "/HW20-react-portfolio/index.html",
+    "static/css/2.ae9f1eb3.chunk.css.map": "/HW20-react-portfolio/static/css/2.ae9f1eb3.chunk.css.map",
+    "static/css/main.fa034185.chunk.css.map": "/HW20-react-portfolio/static/css/main.fa034185.chunk.css.map",
+    "static/js/2.0db4917e.chunk.js.LICENSE.txt": "/HW20-react-portfolio/static/js/2.0db4917e.chunk.js.LICENSE.txt",
+    "static/media/0.ae26bb14.png": "/HW20-react-portfolio/static/media/0.ae26bb14.png",
+    "static/media/demo.6b43b7e6.gif": "/HW20-react-portfolio/static/media/demo.6b43b7e6.gif",
+    "static/media/ed1.a635eb31.png": "/HW20-react-portfolio/static/media/ed1.a635eb31.png",
+    "static/media/ed2.86bb851a.png": "/HW20-react-portfolio/static/media/ed2.86bb851a.png",
+    "static/media/ed3.27db89c6.png": "/HW20-react-portfolio/static/media/ed3.27db89c6.png",
+    "static/media/emergence-artistpage.dd6744b3.png": "/HW20-react-portfolio/static/media/emergence-artistpage.dd6744b3.png",
+    "static/media/emergence-audio-features.b8313357.png": "/HW20-react-portfolio/static/media/emergence-audio-features.b8313357.png",
+    "static/media/emergence-homepage.58958f6b.png": "/HW20-react-portfolio/static/media/emergence-homepage.58958f6b.png",
+    "static/media/guitarbody.4161ef77.png": "/HW20-react-portfolio/static/media/guitarbody.4161ef77.png",
+    "static/media/guitarbody2.96979e1d.png": "/HW20-react-portfolio/static/media/guitarbody2.96979e1d.png",
+    "static/media/nogym1.8c9d00c4.png": "/HW20-react-portfolio/static/media/nogym1.8c9d00c4.png",
+    "static/media/nogym2.bc46a319.png": "/HW20-react-portfolio/static/media/nogym2.bc46a319.png",
+    "static/media/nogym3.b5b26e97.png": "/HW20-react-portfolio/static/media/nogym3.b5b26e97.png",
+    "static/media/nt1.c11c376a.png": "/HW20-react-portfolio/static/media/nt1.c11c376a.png",
+    "static/media/nt2.b8dc3e8a.png": "/HW20-react-portfolio/static/media/nt2.b8dc3e8a.png",
+    "static/media/symbol.d4799ed0.png": "/HW20-react-portfolio/static/media/symbol.d4799ed0.png",
+    "static/media/wt1.10845546.png": "/HW20-react-portfolio/static/media/wt1.10845546.png",
+    "static/media/wt2.763f5a86.png": "/HW20-react-portfolio/static/media/wt2.763f5a86.png",
+    "static/media/wt3.09e2b8fc.png": "/HW20-react-portfolio/static/media/wt3.09e2b8fc.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a9c6c212.js",
+    "static/css/2.ae9f1eb3.chunk.css",
+    "static/js/2.0db4917e.chunk.js",
+    "static/css/main.fa034185.chunk.css",
+    "static/js/main.e90f32ca.chunk.js"
+  ]
+}

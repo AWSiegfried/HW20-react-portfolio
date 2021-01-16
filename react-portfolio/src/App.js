@@ -1,13 +1,14 @@
 import React from "react";
 import { BrowserRouter as Router, Route } from "react-router-dom";
-import Home from "./pages/Home/Home.js";
-import About from "./pages/About/About";
-import Portfolio from "./pages/Portfolio/Portfolio";
-import Contact from "./pages/Contact/Contact";
+import About from "./pages/About/about";
+import Portfolio from "./pages/Portfolio/portfolio";
+import Contact from "./pages/Contact/contact";
 import Navbar from "./components/Navbar/Navbar";
 import Footer from "./components/Footer/Footer";
-import Wrapper from "./components/Wrapper/Wrapper";
+import Wrapper from "./components/Wrapper/wrapper";
 import Background from "./assets/images/guitarbody.png"
+import "bootstrap/dist/css/bootstrap.min.css";
+
 
 const styles = {
     main: {

@@ -4,9 +4,8 @@
         "name": "EMERGENCE",
         "live": "https://awsiegfried.github.io/Emergence_v1/",
         "github": "https://github.com/AWSiegfried/Emergence_v1",
-        "imageOne": "../../assets/images/emergence-homepage.png",
+        "imageOne": "../assets/images/emergence-homepage.png",
         "imageTwo": "../../assets/images/emergence-artistpage.png",
         "imageThree": "../../assets/images/emergence-audio-features.png"
-        
     }
 ]
